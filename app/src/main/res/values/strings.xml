@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SharedPreference</string>
+    //String Main Activity
+    <string name="SharedPreference">Shared Preference</string>
+    <string name="agenda">Agenda Datos</string>
+    <string name="bloc">Block de Notas</string>
+    <string name="nombre">Registro de Nombres</string>
+
+    //String SharedPreference
+    <string name="Email">Ingrese un Correo Electrónico</string>
+    <string name="Guardar">Guardar</string>
+
+    //String Agenda
+    <string name="Inombre">Ingrese Nombre</string>
+    <string name="apellido">Ingrese Apellido</string>
+    <string name="GuardarDatos">Guardar</string>
+    <string name="Buscar">Buscar</string>
+
+    //String Notas
+    <string name="Notas">Ingrese Texto Aquí</string>
+    <string name="GuardarNotas">Guardar</string>
+
+    //String Nombres
+    <string name="et_nombre">Ingrese su nombre</string>
+    <string name="Siguiente">Siguiente</string>
+
+    //String Nombre 2
+    <string name="et_nombre2">Bienvenido: </string>
+    <string name="Calificar">Calificar</string>
+</resources>
